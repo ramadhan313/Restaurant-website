@@ -1,0 +1,36 @@
+body{
+    background-color: burlywood;
+    font-size: medium;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h2.title{
+    background-color: green;
+    font-size: small;
+    font-style: oblique;
+    text-align: center;
+}
+.top-menu{
+    background-color: #ff0000;
+    overflow: hidden;
+
+}
+.top-menu ul li{
+    list-style-type: none;
+    float: left;
+    border-right:2px solid  black;
+    font-weight: 900;
+    padding: 5px 10px
+}
+.top-menu ul li{
+    background-color:#cff;
+    text-decoration:underline;
+}
+.credits{
+    background-color:brown;
+    text-align:center;
+    color:black;
+    padding: 20px;
+
+}
+
